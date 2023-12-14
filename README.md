@@ -6,7 +6,7 @@ git clone https://github.com/adharsh-yesugari/Plant_Disease_Detection_Mini_Proje
 
 - Goto the cloned folder.
 
-cd Plant Disease Detection
+cd Plant_Disease_Detection_Mini_Project
 
 - Upgrade pip with the mentioned command below.
 
